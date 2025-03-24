@@ -77,7 +77,6 @@ cp .env.example .env
 
 ```
 TG_API_TOKEN=your_telegram_token
-JITO_AUTH_KEYPAIR=your_jito_keypair
 OPENAI_API_KEY=your_openai_key
 ```
 
@@ -166,7 +165,6 @@ cp .env.copy .env
 
 ```
 TG_API_TOKEN=你的_telegram_token
-JITO_AUTH_KEYPAIR=你的_jito_keypair
 OPENAI_API_KEY=你的_openai_key
 ```
 
